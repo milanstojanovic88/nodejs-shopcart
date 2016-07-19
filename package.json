@@ -10,8 +10,24 @@
     "cookie-parser": "~1.4.3",
     "debug": "~2.2.0",
     "express": "~4.13.4",
+    "express-handlebars": "^3.0.0",
     "hbs": "~4.0.0",
+    "mongoose": "^4.5.5",
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.0"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-clean-css": "*",
+    "gulp-jshint": "*",
+    "gulp-plumber": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*",
+    "gulp-uglyfly": "*",
+    "gulp-util": "*",
+    "gulp-watch": "*",
+    "jshint": "*",
+    "jshint-stylish": "*",
+    "vinyl-ftp": "*"
   }
 }
